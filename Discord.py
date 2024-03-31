@@ -1,5 +1,3 @@
-# รวมโปรแกรม - By Highzy 
-# Discord - https://discord.com/invite/zdNjNPmfFF
 import requests, time, random
 import time
 from multiprocessing.pool import ThreadPool
